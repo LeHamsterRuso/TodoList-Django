@@ -2,7 +2,7 @@
 This is a simple, very basic task manager that I created in 2014, programmed in Python with Django. I haven't maintained it since then.
 
 # Useful Links:
-Video on how set the environment and demo (spanish) [https://www.youtube.com/watch?v=m6dmyg21Us8].
+Video on how to set the environment and demo (spanish) [https://www.youtube.com/watch?v=m6dmyg21Us8].
 Mini installation guide with screenshots (spanish): [https://www.elgeneralfailure.com/2014/11/sistema-de-gestion-de-tareas-realizado.html].
 
 # Prerequisites:
